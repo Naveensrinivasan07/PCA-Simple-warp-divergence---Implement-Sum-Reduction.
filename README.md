@@ -26,8 +26,8 @@ Step 8 : Atlast , free the host and device memory then reset the device and chec
 
 ##PROGRAM:
 
-Developed By:  Thrikeswar P
-Reg.No:   212222230162
+Developed By:  Naveen S
+Reg.No:   212222240070
   
 
 U8.cu
